@@ -16,7 +16,7 @@ flowchart TD
 
     Validate --> Executor
 
-    subgraph Exec[Execution phase — Haiku]
+    subgraph Exec[Execution phase]
         Executor --> Loop{For each<br/>parallel group}
         Loop --> Tools
         subgraph Tools[Tools — async, parallel]
