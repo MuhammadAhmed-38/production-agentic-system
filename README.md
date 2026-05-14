@@ -17,7 +17,6 @@ A multi-tool agent that decomposes user queries into an explicit JSON plan, exec
 | [`REPORT.md`](./REPORT.md) | 2-page report: results, failures, learnings, ablation |
 | [`ARCHITECTURE.md`](./ARCHITECTURE.md) | System design, trade-offs, scaling analysis (100 concurrent users) |
 | [`ROADMAP.md`](./ROADMAP.md) | 5 features to ship next week, grounded in observed limitations |
-| [`AI_USAGE.md`](./AI_USAGE.md) | Honest breakdown of AI-assisted workflow |
 | [`FAILURE_LOG.md`](./FAILURE_LOG.md) | Raw debugging log from development |
 | [`REPORT_NOTES.md`](./REPORT_NOTES.md) | Development notes, eval findings |
 
